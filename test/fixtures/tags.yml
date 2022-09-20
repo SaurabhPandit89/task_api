@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+no_name:
+  name: ''
+
+one:
+  name: '#myString'
+
+two:
+  name: '#MyString'
+
+three:
+  name: '#myString'
+
+four:
+  id: 4
+  name: '#four'
+
+tag_task:
+  id: 5
+  name: '#task'

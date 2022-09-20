@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+no_task_id:
+  task_id:
+  tag_id: 1
+
+no_tag_id:
+  task_id: 1
+  tag_id:
+
+no_ids:
+  task_id:
+  tag_id:
+
+one:
+  task_id: 1
+  tag_id: 1
+
+two:
+  task_id: 1
+  tag_id: 2

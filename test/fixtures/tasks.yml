@@ -1,0 +1,20 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+no_title:
+  title: ''
+
+one:
+  title: 'MyString without hashtag'
+
+two:
+  title: 'MyString with #hashtag'
+
+three:
+  title: 'My String with #multiple #hashtags'
+
+four:
+  title: 'This #string has #hashtags which is also #repeating #hashtags'
+
+five:
+  id: 5
+  title: 'this is 5th #task'
